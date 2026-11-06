@@ -1,0 +1,21 @@
+# MacOS files
+**/.DS_Store
+
+# .class files
+**/.class
+
+# bin folder
+**/bin/
+
+# build folder
+**/build/
+
+# .gradle folder
+**/.gradle/
+
+# .vscode folder
+**/.vscode/
+
+# hidden files
+**/.idea
+**/.iml

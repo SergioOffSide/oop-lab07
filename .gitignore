@@ -13,4 +13,11 @@
 # .gradle folder
 **/.gradle/
 
+# .vscode folder
+**/.vscode/
 
+# hidden files
+.idea
+**/.idea
+.iml
+**/.iml

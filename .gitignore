@@ -17,7 +17,5 @@
 **/.vscode/
 
 # hidden files
-.idea
 **/.idea
-.iml
 **/.iml
